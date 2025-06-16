@@ -1,5 +1,5 @@
-# labubu🛠️ How to Run the Script on a Product Page
-Follow these steps to run the script in your browser:
+🛠️ How to Run the Script on a Product Page
+Follow these steps to run the script directly in your browser:
 
 ✅ Instructions
 Open the Product Page
@@ -15,14 +15,16 @@ Go to the Console Tab
 
 In the Developer Tools panel, click on the "Console" tab.
 
-Paste the Script
+Copy the Script
 
-Copy your script.
+Go to the script: [index.js](https://github.com/lala010addict/labubu/blob/main/index.js)
 
-Paste it into the console.
+Copy the entire contents of the file.
 
-Run the Script
+Paste and Run the Script
 
-Press Enter to execute the script.
+Paste the script into the console.
 
-⚠️ Use at your own risk. Running scripts on third-party websites may violate their terms of service.
+Press Enter to execute it.
+
+⚠️ Note: Be cautious when running scripts in your browser. Only run code you understand and trust.
